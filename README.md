@@ -6,11 +6,11 @@
 **OBJECTIVE:**
 The objective of a weather forecast app is to provide users with accurate and timely information about current and future weather conditions.
 
--It provides Accurate weather information.
--Enable Accessibilty
--Customize user experience.
+- It provides Accurate weather information.
+- Enable Accessibilty
+- Customize user experience.
 
 **TECHNOLOGIES USED:-**
--HTML 
--CSS 
--JAVASCRIPT
+- HTML 
+- CSS 
+- JAVASCRIPT
