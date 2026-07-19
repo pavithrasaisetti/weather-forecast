@@ -10,6 +10,9 @@ The objective of a weather forecast app is to provide users with accurate and ti
 - Enable Accessibilty
 - Customize user experience.
 
+**URL:**
+https://pavithrasaisetti.github.io/weather-forecast/
+
 **TECHNOLOGIES USED:-**
 - HTML 
 - CSS 
